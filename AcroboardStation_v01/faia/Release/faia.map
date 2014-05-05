@@ -1,0 +1,2588 @@
+Archive member included because of file (symbol)
+
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+                              services/datalogger/datalogger.o (AT24CXX_Init)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(pulse_raingauge.o)
+                              services/datalogger/datalogger.o (raingauge_reset_stats)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(VBusMon.o)
+                              simple_logger.o (VBusMon_init)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o)
+                              services/datalogger/datalogger.o (voltmeter_init)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+                              services/datalogger/datalogger.o (sim900_init)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(buffer_usart.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o) (usart_interruptdriver_initialize)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(cbuffer_usart.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o) (USART_RX_CBuffer_Complete)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(init.o)
+                              simple_logger.o (board_init)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o)
+                              services/datalogger/datalogger.o (calendar_timestamp_to_date)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o) (adc_enable)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc_aau.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o) (adc_write_configuration)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(wdt.o)
+                              services/datalogger/datalogger.o (wdt_set_timeout_period)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                              services/datalogger/datalogger.o (debug_string)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sysclk.o)
+                              simple_logger.o (sysclk_init)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ioport_compat.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o) (ioport_configure_port_pin)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sleepmgr.o)
+                              services/datalogger/datalogger.o (sleepmgr_configs)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(VBusMon.o) (udc_start)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ccp.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(wdt.o) (ccp_write_io)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+                              services/config/config.o (nvm_eeprom_read_buffer)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm_asm.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o) (nvm_read_byte)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+                              services/datalogger/datalogger.o (rtc_set_time)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                              services/datalogger/datalogger.o (tc_enable)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(twim.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o) (twi_master_init)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+                              services/datalogger/datalogger.o (usart_putchar)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o) (udd_g_ctrlreq)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc_desc.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o) (udc_config)
+../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc_desc.o) (udi_api_cdc_data)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodhi4.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o) (__udivmodhi4)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodsi4.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o) (__udivmodsi4)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6/crtx256a3bu.o (exit)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_copy_data.o)
+                              services/datalogger/datalogger.o (__do_copy_data)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_clear_bss.o)
+                              services/datalogger/datalogger.o (__do_clear_bss)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_umulhisi3.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o) (__umulhisi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_usmulhisi3.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o) (__usmulhisi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_muluhisi3.o)
+                              services/datalogger/datalogger.o (__muluhisi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o)
+                              services/datalogger/datalogger.o (strtoul)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(isspace.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o) (isspace)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strncasecmp_P.o)
+                              services/datalogger/datalogger.o (strncasecmp_P)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(memcpy.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o) (memcpy)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strnlen.o)
+                              services/datalogger/datalogger.o (strnlen)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(itoa.o)
+                              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o) (itoa)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o)
+                              services/datalogger/datalogger.o (snprintf_P)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(sprintf_p.o)
+                              services/datalogger/datalogger.o (sprintf_P)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o) (vfprintf)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(errno.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o) (errno)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(cty_isfalse.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(isspace.o) (__ctype_isfalse)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strnlen_P.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o) (strnlen_P)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strrev.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(itoa.o) (strrev)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o) (fputc)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(ultoa_invert.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o) (__ultoa_invert)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_mulsi3.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o) (__mulsi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x2               c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(errno.o)
+rtc_data            0x2               ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+sim900_usart_data   0x12              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+g_idf_queue         0x480             services/IDF/IDF.o
+queue_head          0x2               services/IDF/IDF.o
+g_szIMEI            0x18              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+udd_g_ctrlreq       0x10              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+raingauge_stats     0x14              ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(pulse_raingauge.o)
+sleepmgr_locks      0x6               ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sleepmgr.o)
+
+Discarded input sections
+
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+ .text          0x00000000        0x0 services/config/config.o
+ .bss           0x00000000        0x0 services/config/config.o
+ .text          0x00000000        0x0 services/datalogger/boot.o
+ .bss           0x00000000        0x0 services/datalogger/boot.o
+ .text          0x00000000        0x0 services/datalogger/datalogger.o
+ .bss           0x00000000        0x0 services/datalogger/datalogger.o
+ .text.timer_overflow
+                0x00000000        0xa services/datalogger/datalogger.o
+ .text.datalogger_dump_all
+                0x00000000      0x128 services/datalogger/datalogger.o
+ .text.datalogger_dump
+                0x00000000      0x128 services/datalogger/datalogger.o
+ .text.dl_task_send_data_prepare
+                0x00000000       0x8c services/datalogger/datalogger.o
+ .bss.task_status_send_data_prepare
+                0x00000000        0x1 services/datalogger/datalogger.o
+ .bss.task_status_time_tick
+                0x00000000        0x1 services/datalogger/datalogger.o
+ .progmem.data.__c.6807
+                0x00000000       0x20 services/datalogger/datalogger.o
+ .progmem.data.__c.6811
+                0x00000000       0x12 services/datalogger/datalogger.o
+ .progmem.data.__c.6818
+                0x00000000        0x6 services/datalogger/datalogger.o
+ .progmem.data.__c.6826
+                0x00000000       0x26 services/datalogger/datalogger.o
+ .progmem.data.__c.6834
+                0x00000000       0x20 services/datalogger/datalogger.o
+ .progmem.data.__c.6838
+                0x00000000       0x12 services/datalogger/datalogger.o
+ .progmem.data.__c.6845
+                0x00000000        0x6 services/datalogger/datalogger.o
+ .progmem.data.__c.6853
+                0x00000000       0x26 services/datalogger/datalogger.o
+ .progmem.data.__c.7007
+                0x00000000       0x1a services/datalogger/datalogger.o
+ .text          0x00000000        0x0 services/IDF/IDF.o
+ .bss           0x00000000        0x0 services/IDF/IDF.o
+ .text.idf_queue_init
+                0x00000000       0x16 services/IDF/IDF.o
+ .text.idf_queue_head
+                0x00000000        0xa services/IDF/IDF.o
+ .text.idf_queue_head_insert
+                0x00000000       0x3e services/IDF/IDF.o
+ .text.idf_queue_iterate_for
+                0x00000000       0x64 services/IDF/IDF.o
+ COMMON         0x00000000      0x482 services/IDF/IDF.o
+ .text          0x00000000        0x0 services/taskman/taskman.o
+ .bss           0x00000000        0x0 services/taskman/taskman.o
+ .text.TM_DoPendingProcess
+                0x00000000        0x4 services/taskman/taskman.o
+ .text          0x00000000        0x0 simple_logger.o
+ .bss           0x00000000        0x0 simple_logger.o
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .text.AT24CXX_WriteBlockB
+                0x00000000       0xa8 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .text.AT24CXX_ReadBlockB
+                0x00000000       0x7e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(pulse_raingauge.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(pulse_raingauge.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(VBusMon.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(VBusMon.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_power_on
+                0x00000000       0x20 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_send_sms
+                0x00000000      0x104 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_send_sms_to_phone_book
+                0x00000000       0x18 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_ftp_init
+                0x00000000       0xb6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_ftp_put
+                0x00000000      0x14a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .bss.usart_sync
+                0x00000000        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6715
+                0x00000000       0x33 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6717
+                0x00000000       0x29 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6926
+                0x00000000       0x10 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6929
+                0x00000000        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6931
+                0x00000000       0x66 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6933
+                0x00000000        0x5 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6935
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6937
+                0x00000000        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6939
+                0x00000000        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6941
+                0x00000000       0x36 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6943
+                0x00000000        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6945
+                0x00000000       0x18 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7168
+                0x00000000        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7170
+                0x00000000        0xd ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7172
+                0x00000000        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7174
+                0x00000000        0xb ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7176
+                0x00000000        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7178
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7180
+                0x00000000        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7191
+                0x00000000        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7193
+                0x00000000       0x10 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7195
+                0x00000000        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7197
+                0x00000000       0x10 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7199
+                0x00000000        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7201
+                0x00000000        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7203
+                0x00000000        0xd ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7205
+                0x00000000        0xe ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(buffer_usart.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(buffer_usart.o)
+ .text.USART_TXBuffer_FreeSpace
+                0x00000000       0x14 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(buffer_usart.o)
+ .text.USART_TXBuffer_PutByte
+                0x00000000       0x52 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(buffer_usart.o)
+ .text.USART_RXBuffer_GetByte
+                0x00000000       0x18 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(buffer_usart.o)
+ .text.USART_RXComplete
+                0x00000000       0x2a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(buffer_usart.o)
+ .text.USART_DataRegEmpty
+                0x00000000       0x3a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(buffer_usart.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(cbuffer_usart.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(cbuffer_usart.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(init.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(init.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o)
+ .text.calendar_is_date_valid
+                0x00000000       0x60 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o)
+ .text.calendar_timestamp_to_date_tz
+                0x00000000       0x9a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o)
+ .text.calendar_date_to_timestamp
+                0x00000000      0x10a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o)
+ .text.calendar_date_to_timestamp_tz
+                0x00000000       0xdc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o)
+ .text.calendar_time_between_dates
+                0x00000000      0x170 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o)
+ .text.calendar_add_second_to_date
+                0x00000000       0x98 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc.o)
+ .text.adc_is_enabled
+                0x00000000       0x24 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc_aau.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc_aau.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(wdt.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(wdt.o)
+ .text.wdt_set_window_period
+                0x00000000       0x2c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(wdt.o)
+ .text.wdt_disable
+                0x00000000       0x10 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(wdt.o)
+ .text.wdt_disable_window_mode
+                0x00000000       0x20 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(wdt.o)
+ .text.wdt_enable_window_mode
+                0x00000000       0x24 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(wdt.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sysclk.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sysclk.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ioport_compat.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ioport_compat.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sleepmgr.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sleepmgr.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .text.udc_get_interface_desc
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ccp.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ccp.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_issue_command
+                0x00000000       0x22 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_read_production_signature_row
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_read_device_serial
+                0x00000000       0x64 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_eeprom_read_byte
+                0x00000000       0x24 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_eeprom_flush_buffer
+                0x00000000       0x1e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_eeprom_load_byte_to_buffer
+                0x00000000       0x3e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_eeprom_write_byte
+                0x00000000       0x64 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_eeprom_load_page_to_buffer
+                0x00000000       0x24 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_eeprom_atomic_write_page
+                0x00000000       0x32 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_eeprom_erase_and_write_buffer
+                0x00000000       0x7e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_eeprom_split_write_page
+                0x00000000       0x32 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_eeprom_fill_buffer_with_value
+                0x00000000       0x24 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_eeprom_erase_bytes_in_page
+                0x00000000       0x32 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_eeprom_erase_page
+                0x00000000       0x12 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_eeprom_erase_bytes_in_all_pages
+                0x00000000        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_eeprom_erase_all
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_issue_flash_range_crc
+                0x00000000       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_user_sig_read_buffer
+                0x00000000       0x44 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_user_sig_write_buffer
+                0x00000000      0x130 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_flash_erase_and_write_buffer
+                0x00000000      0x156 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_fuses_read
+                0x00000000       0x36 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm_asm.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm_asm.o)
+ .BOOT          0x00000000       0x44 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm_asm.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+ .text.rtc_alarm_has_triggered
+                0x00000000       0x12 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .text.tc_disable
+                0x00000000       0xa8 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .text.tc_set_overflow_interrupt_callback
+                0x00000000       0x7c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .text.tc_set_error_interrupt_callback
+                0x00000000       0x7c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .text.tc_set_cca_interrupt_callback
+                0x00000000       0x7c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .text.tc_set_ccb_interrupt_callback
+                0x00000000       0x7c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .text.tc_set_ccc_interrupt_callback
+                0x00000000       0x46 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .text.tc_set_ccd_interrupt_callback
+                0x00000000       0x46 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(twim.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(twim.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+ .text.usart_getchar
+                0x00000000        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+ .text.usart_set_bsel_bscale_value
+                0x00000000       0x16 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+ .text.usart_set_baudrate_precalculated
+                0x00000000       0xc6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+ .text.usart_spi_set_baudrate
+                0x00000000       0x68 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+ .text.usart_init_spi
+                0x00000000      0x152 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+ .progmem.data.baudctrl_2mhz
+                0x00000000        0xe ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+ .progmem.data.baudctrl_32mhz
+                0x00000000        0xe ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text.udd_include_vbus_monitoring
+                0x00000000        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text.udd_send_remotewakeup
+                0x00000000       0x24 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text.udd_ep_wait_stall_clear
+                0x00000000       0x4e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text.udd_ep_is_valid
+                0x00000000       0x10 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc_desc.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc_desc.o)
+ .text          0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss           0x00000000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_ctrl_state_notify.isra.0
+                0x00000000       0x4e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_serial_state_msg_sent
+                0x00000000       0x2a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_ctrl_state_change.isra.2
+                0x00000000       0x3e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_ctrl_signal_dcd
+                0x00000000        0x8 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_ctrl_signal_dsr
+                0x00000000        0x8 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_signal_framing_error
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_signal_parity_error
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_signal_overrun
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_multi_ctrl_signal_dcd
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_multi_ctrl_signal_dsr
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_multi_signal_framing_error
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_multi_signal_parity_error
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_multi_signal_overrun
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_get_nb_received_data
+                0x00000000        0x6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_is_rx_ready
+                0x00000000        0x6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_multi_getc
+                0x00000000       0x86 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_getc
+                0x00000000        0x6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_multi_read_buf
+                0x00000000       0xa2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_read_buf
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_multi_get_free_tx_buffer
+                0x00000000       0x68 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_get_free_tx_buffer
+                0x00000000        0x6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_multi_is_tx_ready
+                0x00000000       0x10 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_is_tx_ready
+                0x00000000        0x6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_multi_putc
+                0x00000000       0x7c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_putc
+                0x00000000        0x8 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_multi_write_buf
+                0x00000000       0xc6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_write_buf
+                0x00000000        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_serial_state_msg_ongoing
+                0x00000000        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_usmulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_usmulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(isspace.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(isspace.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strncasecmp_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strncasecmp_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strnlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(itoa.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(itoa.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(sprintf_p.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(sprintf_p.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(errno.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(errno.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(cty_isfalse.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(cty_isfalse.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strrev.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strrev.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(ultoa_invert.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_mulsi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00802000         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+LOAD services/config/config.o
+LOAD services/datalogger/boot.o
+LOAD services/datalogger/datalogger.o
+LOAD services/IDF/IDF.o
+LOAD services/taskman/taskman.o
+LOAD simple_logger.o
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libm.a
+LOAD ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a
+END GROUP
+Address of section .dl_boot set to 0x80000
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x98cc
+ *(.vectors)
+ .vectors       0x00000000      0x1fc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data.__c.6935
+                0x000001fc       0x12 services/datalogger/datalogger.o
+ .progmem.data.__c.6937
+                0x0000020e       0x48 services/datalogger/datalogger.o
+ .progmem.data.__c.6939
+                0x00000256       0x18 services/datalogger/datalogger.o
+ .progmem.data.__c.6941
+                0x0000026e       0x17 services/datalogger/datalogger.o
+ .progmem.data.__c.6943
+                0x00000285       0x17 services/datalogger/datalogger.o
+ .progmem.data.__c.6945
+                0x0000029c       0x12 services/datalogger/datalogger.o
+ .progmem.data.__c.6953
+                0x000002ae       0x2b services/datalogger/datalogger.o
+ .progmem.data.__c.6959
+                0x000002d9       0x28 services/datalogger/datalogger.o
+ .progmem.data.__c.6971
+                0x00000301       0x18 services/datalogger/datalogger.o
+ .progmem.data.__c.7273
+                0x00000319       0x52 services/datalogger/datalogger.o
+ .progmem.data.__c.6924
+                0x0000036b       0x25 services/datalogger/datalogger.o
+ .progmem.data.__c.6978
+                0x00000390       0x12 services/datalogger/datalogger.o
+ .progmem.data.__c.6980
+                0x000003a2       0x54 services/datalogger/datalogger.o
+ .progmem.data.__c.6985
+                0x000003f6       0x21 services/datalogger/datalogger.o
+ .progmem.data.__c.6989
+                0x00000417       0x1e services/datalogger/datalogger.o
+ .progmem.data.__c.6991
+                0x00000435       0x1c services/datalogger/datalogger.o
+ .progmem.data.__c.6999
+                0x00000451       0x48 services/datalogger/datalogger.o
+ .progmem.data.__c.7001
+                0x00000499       0x42 services/datalogger/datalogger.o
+ .progmem.data.__c.6997
+                0x000004db       0x3b services/datalogger/datalogger.o
+ .progmem.data.__c.7014
+                0x00000516       0x1d services/datalogger/datalogger.o
+ .progmem.data.__c.7142
+                0x00000533       0x10 services/datalogger/datalogger.o
+ .progmem.data.__c.7144
+                0x00000543        0xb services/datalogger/datalogger.o
+ .progmem.data.__c.7110
+                0x0000054e        0x3 services/datalogger/datalogger.o
+ .progmem.data.__c.7112
+                0x00000551        0xa services/datalogger/datalogger.o
+ .progmem.data.__c.7114
+                0x0000055b       0x13 services/datalogger/datalogger.o
+ .progmem.data.__c.7119
+                0x0000056e       0x1f services/datalogger/datalogger.o
+ .progmem.data.__c.7122
+                0x0000058d       0x16 services/datalogger/datalogger.o
+ .progmem.data.__c.7124
+                0x000005a3        0xb services/datalogger/datalogger.o
+ .progmem.data.__c.7126
+                0x000005ae       0x17 services/datalogger/datalogger.o
+ .progmem.data.__c.7128
+                0x000005c5        0x3 services/datalogger/datalogger.o
+ .progmem.data.__c.7130
+                0x000005c8       0x2a services/datalogger/datalogger.o
+ .progmem.data.__c.7132
+                0x000005f2       0x32 services/datalogger/datalogger.o
+ .progmem.data.__c.7098
+                0x00000624       0x19 services/datalogger/datalogger.o
+ .progmem.data.__c.7062
+                0x0000063d       0x19 services/datalogger/datalogger.o
+ .progmem.data.__c.7068
+                0x00000656       0x44 services/datalogger/datalogger.o
+ .progmem.data.__c.7070
+                0x0000069a       0x49 services/datalogger/datalogger.o
+ .progmem.data.__c.7077
+                0x000006e3       0x26 services/datalogger/datalogger.o
+ .progmem.data.__c.7079
+                0x00000709       0x21 services/datalogger/datalogger.o
+ .progmem.data.__c.7082
+                0x0000072a       0x21 services/datalogger/datalogger.o
+ .progmem.data.__c.7084
+                0x0000074b       0x22 services/datalogger/datalogger.o
+ .progmem.data.__c.7086
+                0x0000076d       0x21 services/datalogger/datalogger.o
+ .progmem.data.__c.7089
+                0x0000078e        0xf services/datalogger/datalogger.o
+ .progmem.data.__c.7091
+                0x0000079d       0x14 services/datalogger/datalogger.o
+ .progmem.data.__c.7048
+                0x000007b1       0x3b services/datalogger/datalogger.o
+ .progmem.data.__c.7050
+                0x000007ec       0x36 services/datalogger/datalogger.o
+ .progmem.data.__c.7038
+                0x00000822       0x33 services/datalogger/datalogger.o
+ .progmem.data.__c.7036
+                0x00000855       0x3d services/datalogger/datalogger.o
+ .progmem.data.__c.7221
+                0x00000892       0x2c services/datalogger/datalogger.o
+ .progmem.data.__c.7229
+                0x000008be        0x9 services/datalogger/datalogger.o
+ .progmem.data.__c.7238
+                0x000008c7       0x1b services/datalogger/datalogger.o
+ .progmem.data.__c.7241
+                0x000008e2        0x9 services/datalogger/datalogger.o
+ .progmem.data.__c.7244
+                0x000008eb       0x18 services/datalogger/datalogger.o
+ .progmem.data.__c.7246
+                0x00000903       0x18 services/datalogger/datalogger.o
+ .progmem.data.__c.7248
+                0x0000091b       0x1a services/datalogger/datalogger.o
+ .progmem.data.__c.7253
+                0x00000935       0x19 services/datalogger/datalogger.o
+ .progmem.data.__c.7259
+                0x0000094e       0x12 services/datalogger/datalogger.o
+ .progmem.data.__c.7265
+                0x00000960       0x20 services/datalogger/datalogger.o
+ .progmem.data.__c.7289
+                0x00000980       0x16 services/datalogger/datalogger.o
+ .progmem.data.__c.6698
+                0x00000996        0xb simple_logger.o
+ .progmem.data.__c.6700
+                0x000009a1       0x10 simple_logger.o
+ .progmem.data.__c.6705
+                0x000009b1       0x1e simple_logger.o
+ .progmem.data.__c.6710
+                0x000009cf        0xf simple_logger.o
+ .progmem.data.__c.6590
+                0x000009de       0x1d ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6594
+                0x000009fb       0x1c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6597
+                0x00000a17       0x1c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6600
+                0x00000a33       0x1d ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6603
+                0x00000a50       0x1d ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6606
+                0x00000a6d       0x24 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6609
+                0x00000a91       0x1e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6612
+                0x00000aaf       0x20 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6615
+                0x00000acf       0x20 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6618
+                0x00000aef       0x19 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6621
+                0x00000b08       0x1f ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6624
+                0x00000b27       0x1e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6632
+                0x00000b45       0x1c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6636
+                0x00000b61       0x1c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6639
+                0x00000b7d       0x1c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6642
+                0x00000b99       0x1d ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6645
+                0x00000bb6       0x1d ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6648
+                0x00000bd3       0x24 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6651
+                0x00000bf7       0x1e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6654
+                0x00000c15       0x20 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6657
+                0x00000c35       0x20 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6660
+                0x00000c55       0x19 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6663
+                0x00000c6e       0x1f ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6666
+                0x00000c8d       0x1e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6714
+                0x00000cab        0x3 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6716
+                0x00000cae        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6718
+                0x00000cb2        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.__c.6720
+                0x00000cb6        0x3 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .progmem.data.z.6406
+                0x00000cb9        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(pulse_raingauge.o)
+ .progmem.data.__c.6394
+                0x00000cc3       0x12 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(VBusMon.o)
+ .progmem.data.__c.6396
+                0x00000cd5       0x11 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(VBusMon.o)
+ .progmem.data.__c.6549
+                0x00000ce6       0x13 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o)
+ .progmem.data.__c.6560
+                0x00000cf9       0x12 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o)
+ .progmem.data.__c.6707
+                0x00000d0b       0x33 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6709
+                0x00000d3e       0x2b ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6834
+                0x00000d69        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6836
+                0x00000d75       0x33 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.sz_AT
+                0x00000da8        0x5 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.sz_OK
+                0x00000dad        0x3 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6842
+                0x00000db0       0x32 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6848
+                0x00000de2       0x4e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6852
+                0x00000e30       0x50 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6854
+                0x00000e80        0x7 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6856
+                0x00000e87       0x31 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6858
+                0x00000eb8       0x26 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6860
+                0x00000ede        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6862
+                0x00000eea       0x34 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6864
+                0x00000f1e       0x2b ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6866
+                0x00000f49        0xb ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6868
+                0x00000f54       0x33 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6871
+                0x00000f87        0x9 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6873
+                0x00000f90       0x10 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6875
+                0x00000fa0       0x21 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6877
+                0x00000fc1       0x1e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6879
+                0x00000fdf        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6881
+                0x00000feb       0x23 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6883
+                0x0000100e        0xb ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.tbl_CPIN_rets
+                0x00001019       0x12 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.szCPIN_SIM_PIN
+                0x0000102b        0x8 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6886
+                0x00001033       0x2e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6888
+                0x00001061       0x49 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6890
+                0x000010aa       0x44 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6892
+                0x000010ee        0x9 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6895
+                0x000010f7       0x25 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.szCPIN_SIM_PUK
+                0x0000111c        0x8 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6897
+                0x00001124       0x2e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6899
+                0x00001152       0x35 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6901
+                0x00001187        0xb ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6904
+                0x00001192        0xb ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6906
+                0x0000119d       0x43 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6908
+                0x000011e0       0x3b ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6911
+                0x0000121b       0x1f ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6913
+                0x0000123a       0x27 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6915
+                0x00001261       0x2d ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6811
+                0x0000128e       0x33 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6816
+                0x000012c1       0x27 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6777
+                0x000012e8       0x5d ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6747
+                0x00001345       0x28 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.tbl_returns
+                0x0000136d        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6757
+                0x00001371       0x3b ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6761
+                0x000013ac       0x3b ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6766
+                0x000013e7       0x4b ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6794
+                0x00001432       0x55 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6963
+                0x00001487       0x25 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6977
+                0x000014ac       0x11 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6979
+                0x000014bd        0xf ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6981
+                0x000014cc       0x56 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6983
+                0x00001522       0x20 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6985
+                0x00001542       0x56 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6987
+                0x00001598       0x16 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6990
+                0x000015ae       0x49 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6992
+                0x000015f7       0x43 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6994
+                0x0000163a       0x20 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6996
+                0x0000165a       0x68 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.6998
+                0x000016c2       0x15 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7000
+                0x000016d7        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7004
+                0x000016db       0x5d ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7008
+                0x00001738        0xf ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7010
+                0x00001747       0x57 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7012
+                0x0000179e        0xf ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7014
+                0x000017ad       0x53 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7016
+                0x00001800       0x20 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7018
+                0x00001820       0x43 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7021
+                0x00001863       0x5e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7024
+                0x000018c1       0x32 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7027
+                0x000018f3       0x51 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7034
+                0x00001944        0xf ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7043
+                0x00001953        0xe ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7045
+                0x00001961        0xb ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7048
+                0x0000196c       0x41 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7050
+                0x000019ad       0x3b ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7052
+                0x000019e8       0x41 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7054
+                0x00001a29       0x3b ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7062
+                0x00001a64        0x5 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7064
+                0x00001a69       0x2b ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7066
+                0x00001a94        0xe ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7068
+                0x00001aa2       0x27 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7070
+                0x00001ac9       0x16 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7072
+                0x00001adf       0x2d ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7074
+                0x00001b0c       0x14 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7076
+                0x00001b20        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7078
+                0x00001b24       0x12 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7080
+                0x00001b36       0x29 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7082
+                0x00001b5f        0xd ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7084
+                0x00001b6c       0x2d ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7090
+                0x00001b99       0x40 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7092
+                0x00001bd9       0x28 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7094
+                0x00001c01       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7096
+                0x00001c31        0xe ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7098
+                0x00001c3f        0xb ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7100
+                0x00001c4a       0x3f ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7102
+                0x00001c89       0x39 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7115
+                0x00001cc2        0x5 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7117
+                0x00001cc7       0x2c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7119
+                0x00001cf3        0xe ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7121
+                0x00001d01       0x16 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7123
+                0x00001d17       0x14 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7125
+                0x00001d2b        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7129
+                0x00001d2f       0x14 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7131
+                0x00001d43        0x9 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7133
+                0x00001d4c       0x12 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7135
+                0x00001d5e       0x2a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7137
+                0x00001d88        0xd ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7139
+                0x00001d95       0x2c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7141
+                0x00001dc1        0xd ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7143
+                0x00001dce       0x2a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7145
+                0x00001df8        0xd ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7147
+                0x00001e05       0x2e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7151
+                0x00001e33       0x29 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7153
+                0x00001e5c       0x31 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.__c.7158
+                0x00001e8d        0xe ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.sz_ERROR
+                0x00001e9b        0x6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.szCPIN_SIM_READY
+                0x00001ea1        0x6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.szCPIN_PHSIM_PIN
+                0x00001ea7        0xb ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.szCPIN_PHSIM_PUK
+                0x00001eb2        0xb ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.szCPIN_SIM_PIN2
+                0x00001ebd        0x9 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.szCPIN_SIM_PUK2
+                0x00001ec6        0x9 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .progmem.data.szCRLF
+                0x00001ecf        0x3 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                0x00001ecf                szCRLF
+ .progmem.data.__c.6569
+                0x00001ed2        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+ .progmem.data.__c.6571
+                0x00001ede        0x3 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+ .progmem.data.__c.6577
+                0x00001ee1        0xb ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+ .progmem.data.__c.6579
+                0x00001eec        0x3 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+ .progmem.data.__c.6585
+                0x00001eef        0xb ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+ .progmem.data.__c.6587
+                0x00001efa        0x3 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+ .progmem.data.__c.6592
+                0x00001efd        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+ .progmem.data.__c.6594
+                0x00001f09        0x3 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+ .progmem.data.__c.6601
+                0x00001f0c       0x5b ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                0x00001f68                . = ALIGN (0x2)
+ *fill*         0x00001f67        0x1 
+                0x00001f68                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00001f68        0x0 linker stubs
+ *(.trampolines*)
+                0x00001f68                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00001f68                __ctors_start = .
+ *(.ctors)
+                0x00001f68                __ctors_end = .
+                0x00001f68                __dtors_start = .
+ *(.dtors)
+                0x00001f68                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00001f68        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+                0x00001f68                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00001f68       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00001f78       0x1a c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_copy_data.o)
+                0x00001f78                __do_copy_data
+ .init4         0x00001f92       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_clear_bss.o)
+                0x00001f92                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00001fa2        0x8 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+ *(.init9)
+ *(.text)
+ .text          0x00001faa        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+                0x00001faa                __vector_38
+                0x00001faa                __vector_104
+                0x00001faa                __vector_63
+                0x00001faa                __vector_28
+                0x00001faa                __vector_67
+                0x00001faa                __vector_1
+                0x00001faa                __vector_119
+                0x00001faa                __vector_32
+                0x00001faa                __vector_75
+                0x00001faa                __vector_71
+                0x00001faa                __vector_91
+                0x00001faa                __vector_34
+                0x00001faa                __vector_62
+                0x00001faa                __vector_102
+                0x00001faa                __vector_24
+                0x00001faa                __vector_12
+                0x00001faa                __vector_69
+                0x00001faa                __vector_90
+                0x00001faa                __bad_interrupt
+                0x00001faa                __vector_122
+                0x00001faa                __vector_72
+                0x00001faa                __vector_114
+                0x00001faa                __vector_6
+                0x00001faa                __vector_31
+                0x00001faa                __vector_92
+                0x00001faa                __vector_35
+                0x00001faa                __vector_74
+                0x00001faa                __vector_117
+                0x00001faa                __vector_39
+                0x00001faa                __vector_107
+                0x00001faa                __vector_3
+                0x00001faa                __vector_105
+                0x00001faa                __vector_98
+                0x00001faa                __vector_68
+                0x00001faa                __vector_30
+                0x00001faa                __vector_73
+                0x00001faa                __vector_45
+                0x00001faa                __vector_25
+                0x00001faa                __vector_93
+                0x00001faa                __vector_61
+                0x00001faa                __vector_99
+                0x00001faa                __vector_7
+                0x00001faa                __vector_123
+                0x00001faa                __vector_41
+                0x00001faa                __vector_100
+                0x00001faa                __vector_101
+                0x00001faa                __vector_88
+                0x00001faa                __vector_43
+                0x00001faa                __vector_27
+                0x00001faa                __vector_5
+                0x00001faa                __vector_33
+                0x00001faa                __vector_76
+                0x00001faa                __vector_115
+                0x00001faa                __vector_37
+                0x00001faa                __vector_95
+                0x00001faa                __vector_103
+                0x00001faa                __vector_96
+                0x00001faa                __vector_89
+                0x00001faa                __vector_44
+                0x00001faa                __vector_106
+                0x00001faa                __vector_118
+                0x00001faa                __vector_9
+                0x00001faa                __vector_2
+                0x00001faa                __vector_66
+                0x00001faa                __vector_36
+                0x00001faa                __vector_70
+                0x00001faa                __vector_29
+                0x00001faa                __vector_60
+                0x00001faa                __vector_121
+                0x00001faa                __vector_40
+                0x00001faa                __vector_94
+                0x00001faa                __vector_8
+                0x00001faa                __vector_26
+                0x00001faa                __vector_124
+                0x00001faa                __vector_116
+                0x00001faa                __vector_57
+                0x00001faa                __vector_10
+                0x00001faa                __vector_59
+                0x00001faa                __vector_97
+                0x00001faa                __vector_42
+                0x00001faa                __vector_87
+                0x00001faa                __vector_65
+                0x00001faa                __vector_120
+                0x00001fae                . = ALIGN (0x2)
+ *(.text.*)
+ .text.cfg_get  0x00001fae       0x54 services/config/config.o
+ .text.cfg_check
+                0x00002002       0x36 services/config/config.o
+                0x00002002                cfg_check
+ .text.cfg_get_sim_pin
+                0x00002038        0x8 services/config/config.o
+                0x00002038                cfg_get_sim_pin
+ .text.cfg_get_gprs_apn
+                0x00002040        0x8 services/config/config.o
+                0x00002040                cfg_get_gprs_apn
+ .text.cfg_get_aws_id
+                0x00002048        0x8 services/config/config.o
+                0x00002048                cfg_get_aws_id
+ .text.cfg_get_service_url_time
+                0x00002050        0x8 services/config/config.o
+                0x00002050                cfg_get_service_url_time
+ .text.cfg_get_service_url_send
+                0x00002058        0x8 services/config/config.o
+                0x00002058                cfg_get_service_url_send
+ .text.cfg_get_datalogger_timings
+                0x00002060       0x96 services/config/config.o
+                0x00002060                cfg_get_datalogger_timings
+ .text.__portable_avr_delay_cycles
+                0x000020f6        0xc services/datalogger/datalogger.o
+ .text.datalogger_init_iterators_to_eeprom
+                0x00002102       0xb0 services/datalogger/datalogger.o
+ .text.dl_get_record
+                0x000021b2       0x6a services/datalogger/datalogger.o
+ .text.dl_iterator_moveback
+                0x0000221c       0xe6 services/datalogger/datalogger.o
+ .text.send_data_with_post
+                0x00002302      0x5b4 services/datalogger/datalogger.o
+ .text.dl_task_cmd_check_prepare
+                0x000028b6       0x7c services/datalogger/datalogger.o
+ .text.datalogger_tick
+                0x00002932      0x276 services/datalogger/datalogger.o
+ .text.dl_task_sync_time
+                0x00002ba8      0x1ca services/datalogger/datalogger.o
+                0x00002ba8                dl_task_sync_time
+ .text.datalogger_init
+                0x00002d72      0x4e0 services/datalogger/datalogger.o
+                0x00002d72                datalogger_init
+ .text.dl_task_send_data_prepare_RT
+                0x00003252       0x96 services/datalogger/datalogger.o
+                0x00003252                dl_task_send_data_prepare_RT
+ .text.dl_task_cmd_check
+                0x000032e8      0x712 services/datalogger/datalogger.o
+                0x000032e8                dl_task_cmd_check
+ .text.dl_task_send_data_RT
+                0x000039fa       0x68 services/datalogger/datalogger.o
+                0x000039fa                dl_task_send_data_RT
+ .text.dl_task_send_data
+                0x00003a62       0x62 services/datalogger/datalogger.o
+                0x00003a62                dl_task_send_data
+ .text.dl_task_store_data
+                0x00003ac4      0x322 services/datalogger/datalogger.o
+                0x00003ac4                dl_task_store_data
+ .text.datalogger_run
+                0x00003de6      0x12a services/datalogger/datalogger.o
+                0x00003de6                datalogger_run
+ .text.__portable_avr_delay_cycles.constprop.1
+                0x00003f10       0x12 simple_logger.o
+ .text.startup.main
+                0x00003f22      0x10a simple_logger.o
+                0x00003f22                main
+ .text.AT24CXX_internalWrite
+                0x0000402c      0x11c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .text.AT24CXX_internalRead
+                0x00004148      0x11c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .text.AT24CXX_Init
+                0x00004264       0x6a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+                0x00004264                AT24CXX_Init
+ .text.AT24CXX_WriteBlockA
+                0x000042ce       0x48 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+                0x000042ce                AT24CXX_WriteBlockA
+ .text.AT24CXX_ReadBlockA
+                0x00004316       0x48 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+                0x00004316                AT24CXX_ReadBlockA
+ .text.AT24CXX_iterator_report
+                0x0000435e       0xba ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+                0x0000435e                AT24CXX_iterator_report
+ .text.raingauge_reset_stats
+                0x00004418       0x36 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(pulse_raingauge.o)
+                0x00004418                raingauge_reset_stats
+ .text.raingauge_get_stats
+                0x0000444e       0x1a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(pulse_raingauge.o)
+                0x0000444e                raingauge_get_stats
+ .text.raingauge_init
+                0x00004468       0x32 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(pulse_raingauge.o)
+                0x00004468                raingauge_init
+ .text.__vector_4
+                0x0000449a       0xa0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(pulse_raingauge.o)
+                0x0000449a                __vector_4
+ .text.__portable_avr_delay_cycles
+                0x0000453a        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(VBusMon.o)
+ .text.statusled_blink.constprop.0
+                0x00004546       0x50 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(VBusMon.o)
+ .text.VBusMon_init
+                0x00004596       0x1c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(VBusMon.o)
+                0x00004596                VBusMon_init
+ .text.VBusMon_check
+                0x000045b2       0x66 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(VBusMon.o)
+                0x000045b2                VBusMon_check
+ .text.__vector_64
+                0x00004618       0x4e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(VBusMon.o)
+                0x00004618                __vector_64
+ .text.__portable_avr_delay_cycles.constprop.5
+                0x00004666       0x10 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o)
+ .text.voltmeter_init
+                0x00004676        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o)
+                0x00004676                voltmeter_init
+ .text.voltmeter_getValue
+                0x00004678      0x184 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o)
+                0x00004678                voltmeter_getValue
+ .text.thermometer_getValue
+                0x000047fc      0x122 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o)
+                0x000047fc                thermometer_getValue
+ .text.__portable_avr_delay_cycles
+                0x0000491e        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_wait_data_on_usart
+                0x0000492a       0x48 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_power_toggle
+                0x00004972       0x2a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.statusled_blink.constprop.7
+                0x0000499c       0x38 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_read_string
+                0x000049d4      0x108 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_put_string.part.0
+                0x00004adc       0x40 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_put_string
+                0x00004b1c       0x3c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_cmd_with_read_string.constprop.4
+                0x00004b58       0x88 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_wait_string.constprop.5
+                0x00004be0       0x98 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_wait4dictionary
+                0x00004c78      0x15c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_wait_retstring
+                0x00004dd4        0x8 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_cmd_with_retstring.constprop.3
+                0x00004ddc       0x1e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .text.sim900_power_off
+                0x00004dfa       0x1e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+                0x00004dfa                sim900_power_off
+ .text.sim900_init
+                0x00004e18      0x32e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+                0x00004e18                sim900_init
+ .text.sim900_GPRS_init
+                0x00005146      0x230 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+                0x00005146                sim900_GPRS_init
+ .text.sim900_GPRS_simple_open
+                0x00005376       0x4c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+                0x00005376                sim900_GPRS_simple_open
+ .text.sim900_GPRS_close
+                0x000053c2       0x1e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+                0x000053c2                sim900_GPRS_close
+ .text.sim900_GPRS_simple_close
+                0x000053e0        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+                0x000053e0                sim900_GPRS_simple_close
+ .text.sim900_http_read
+                0x000053e2       0xc6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+                0x000053e2                sim900_http_read
+ .text.sim900_http_get
+                0x000054a8      0x1c0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+                0x000054a8                sim900_http_get
+ .text.sim900_http_post
+                0x00005668      0x1d6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+                0x00005668                sim900_http_post
+ .text.sim900_http_close
+                0x0000583e       0x1e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+                0x0000583e                sim900_http_close
+ .text.__vector_58
+                0x0000585c       0x52 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+                0x0000585c                __vector_58
+ .text.usart_interruptdriver_initialize
+                0x000058ae       0x14 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(buffer_usart.o)
+                0x000058ae                usart_interruptdriver_initialize
+ .text.USART_RX_CBuffer_Complete
+                0x000058c2       0x3e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(cbuffer_usart.o)
+                0x000058c2                USART_RX_CBuffer_Complete
+ .text.board_init
+                0x00005900       0xb8 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(init.o)
+                0x00005900                board_init
+ .text.calendar_leapyear
+                0x000059b8       0x2e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o)
+ .text.calendar_timestamp_to_date
+                0x000059e6      0x116 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o)
+                0x000059e6                calendar_timestamp_to_date
+ .text.adc_enable_clock
+                0x00005afc       0x40 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc.o)
+                0x00005afc                adc_enable_clock
+ .text.adc_disable_clock
+                0x00005b3c       0x3c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc.o)
+                0x00005b3c                adc_disable_clock
+ .text.adc_enable
+                0x00005b78       0x2e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc.o)
+                0x00005b78                adc_enable
+ .text.adc_disable
+                0x00005ba6       0x26 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc.o)
+                0x00005ba6                adc_disable
+ .text.nvm_read_production_signature_row
+                0x00005bcc        0x8 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc_aau.o)
+ .text.adc_get_calibration_data.part.0
+                0x00005bd4       0x1c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc_aau.o)
+ .text.adc_write_configuration
+                0x00005bf0       0x84 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc_aau.o)
+                0x00005bf0                adc_write_configuration
+ .text.adc_read_configuration
+                0x00005c74       0x46 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc_aau.o)
+                0x00005c74                adc_read_configuration
+ .text.adcch_write_configuration
+                0x00005cba       0x90 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc_aau.o)
+                0x00005cba                adcch_write_configuration
+ .text.adcch_read_configuration
+                0x00005d4a       0x90 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc_aau.o)
+                0x00005d4a                adcch_read_configuration
+ .text.wdt_wait_while_busy
+                0x00005dda        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(wdt.o)
+ .text.wdt_set_timeout_period
+                0x00005de4       0x18 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(wdt.o)
+                0x00005de4                wdt_set_timeout_period
+ .text.wdt_enable
+                0x00005dfc       0x10 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(wdt.o)
+                0x00005dfc                wdt_enable
+ .text.wdt_reset_mcu
+                0x00005e0c       0x18 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(wdt.o)
+                0x00005e0c                wdt_reset_mcu
+ .text.debug_string
+                0x00005e24       0x54 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                0x00005e24                debug_string
+ .text.debug_string_P
+                0x00005e78        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                0x00005e78                debug_string_P
+ .text.debug_function_out_name_print
+                0x00005e7c       0x28 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                0x00005e7c                debug_function_out_name_print
+ .text.debug_function_in_name_print
+                0x00005ea4       0x2a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                0x00005ea4                debug_function_in_name_print
+ .text.debug_function_in_name_print_P
+                0x00005ece       0x26 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                0x00005ece                debug_function_in_name_print_P
+ .text.debug_function_out_name_print_P
+                0x00005ef4       0x28 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                0x00005ef4                debug_function_out_name_print_P
+ .text.dump_rainstats_to_log
+                0x00005f1c       0xca ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                0x00005f1c                dump_rainstats_to_log
+ .text.vbus_action
+                0x00005fe6        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                0x00005fe6                vbus_action
+ .text.cdc_enable
+                0x00005ff0        0x8 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                0x00005ff0                cdc_enable
+ .text.cdc_disable
+                0x00005ff8        0x6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                0x00005ff8                cdc_disable
+ .text.cdc_set_dtr
+                0x00005ffe       0x12 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                0x00005ffe                cdc_set_dtr
+ .text.osc_enable_internal
+                0x00006010       0x12 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sysclk.o)
+ .text.osc_enable_autocalibration.constprop.4
+                0x00006022       0x38 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sysclk.o)
+ .text.sysclk_init
+                0x0000605a       0x9a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sysclk.o)
+                0x0000605a                sysclk_init
+ .text.sysclk_enable_module
+                0x000060f4       0x16 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sysclk.o)
+                0x000060f4                sysclk_enable_module
+ .text.sysclk_disable_module
+                0x0000610a       0x14 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sysclk.o)
+                0x0000610a                sysclk_disable_module
+ .text.sysclk_enable_usb
+                0x0000611e       0x36 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sysclk.o)
+                0x0000611e                sysclk_enable_usb
+ .text.sysclk_disable_usb
+                0x00006154       0x10 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sysclk.o)
+                0x00006154                sysclk_disable_usb
+ .text.ioport_configure_port_pin
+                0x00006164       0x44 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ioport_compat.o)
+                0x00006164                ioport_configure_port_pin
+ .text.udc_valid_address
+                0x000061a8        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .text.udc_update_iface_desc
+                0x000061b2       0x66 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .text.udc_next_desc_in_iface.constprop.3
+                0x00006218       0x3e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .text.udc_iface_disable
+                0x00006256       0x7a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .text.udc_iface_enable
+                0x000062d0       0x68 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .text.udc_start
+                0x00006338        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+                0x00006338                udc_start
+ .text.udc_reset
+                0x0000633c       0x40 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+                0x0000633c                udc_reset
+ .text.udc_stop
+                0x0000637c        0x6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+                0x0000637c                udc_stop
+ .text.udc_sof_notify
+                0x00006382       0x4c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+                0x00006382                udc_sof_notify
+ .text.udc_process_setup
+                0x000063ce      0x4c4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+                0x000063ce                udc_process_setup
+ .text.ccp_write_io
+                0x00006892        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ccp.o)
+                0x00006892                ccp_write_io
+ .text.nvm_wait_until_ready
+                0x0000689e        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .text.nvm_eeprom_read_buffer
+                0x000068a8       0x60 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+                0x000068a8                nvm_eeprom_read_buffer
+ .text.nvm_flash_read_buffer
+                0x00006908       0x68 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+                0x00006908                nvm_flash_read_buffer
+ .text.nvm_read_byte
+                0x00006970       0x14 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm_asm.o)
+                0x00006970                nvm_read_byte
+ .text.__portable_avr_delay_cycles.constprop.0
+                0x00006984       0x10 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+ .text.rtc_set_time
+                0x00006994       0x24 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+                0x00006994                rtc_set_time
+ .text.rtc_get_time
+                0x000069b8       0x2c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+                0x000069b8                rtc_get_time
+ .text.rtc_set_alarm
+                0x000069e4       0x16 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+                0x000069e4                rtc_set_alarm
+ .text.rtc_set_callback
+                0x000069fa        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+                0x000069fa                rtc_set_callback
+ .text.rtc_vbat_system_check
+                0x00006a04       0x56 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+                0x00006a04                rtc_vbat_system_check
+ .text.rtc_init
+                0x00006a5a       0x86 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+                0x00006a5a                rtc_init
+ .text.__vector_11
+                0x00006ae0       0x7c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+                0x00006ae0                __vector_11
+ .text.__vector_14
+                0x00006b5c       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00006b5c                __vector_14
+ .text.__vector_15
+                0x00006bb6       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00006bb6                __vector_15
+ .text.__vector_16
+                0x00006c10       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00006c10                __vector_16
+ .text.__vector_17
+                0x00006c6a       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00006c6a                __vector_17
+ .text.__vector_18
+                0x00006cc4       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00006cc4                __vector_18
+ .text.__vector_19
+                0x00006d1e       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00006d1e                __vector_19
+ .text.__vector_20
+                0x00006d78       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00006d78                __vector_20
+ .text.__vector_21
+                0x00006dd2       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00006dd2                __vector_21
+ .text.__vector_22
+                0x00006e2c       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00006e2c                __vector_22
+ .text.__vector_23
+                0x00006e86       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00006e86                __vector_23
+ .text.__vector_77
+                0x00006ee0       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00006ee0                __vector_77
+ .text.__vector_78
+                0x00006f3a       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00006f3a                __vector_78
+ .text.__vector_79
+                0x00006f94       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00006f94                __vector_79
+ .text.__vector_80
+                0x00006fee       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00006fee                __vector_80
+ .text.__vector_81
+                0x00007048       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00007048                __vector_81
+ .text.__vector_82
+                0x000070a2       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x000070a2                __vector_82
+ .text.__vector_83
+                0x000070fc       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x000070fc                __vector_83
+ .text.__vector_84
+                0x00007156       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00007156                __vector_84
+ .text.__vector_85
+                0x000071b0       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x000071b0                __vector_85
+ .text.__vector_86
+                0x0000720a       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x0000720a                __vector_86
+ .text.__vector_47
+                0x00007264       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00007264                __vector_47
+ .text.__vector_48
+                0x000072be       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x000072be                __vector_48
+ .text.__vector_49
+                0x00007318       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00007318                __vector_49
+ .text.__vector_50
+                0x00007372       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00007372                __vector_50
+ .text.__vector_51
+                0x000073cc       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x000073cc                __vector_51
+ .text.__vector_52
+                0x00007426       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00007426                __vector_52
+ .text.__vector_53
+                0x00007480       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00007480                __vector_53
+ .text.__vector_54
+                0x000074da       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x000074da                __vector_54
+ .text.__vector_55
+                0x00007534       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00007534                __vector_55
+ .text.__vector_56
+                0x0000758e       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x0000758e                __vector_56
+ .text.__vector_108
+                0x000075e8       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x000075e8                __vector_108
+ .text.__vector_109
+                0x00007642       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00007642                __vector_109
+ .text.__vector_110
+                0x0000769c       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x0000769c                __vector_110
+ .text.__vector_111
+                0x000076f6       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x000076f6                __vector_111
+ .text.__vector_112
+                0x00007750       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00007750                __vector_112
+ .text.__vector_113
+                0x000077aa       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x000077aa                __vector_113
+ .text.tc_enable
+                0x00007804       0xa8 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+                0x00007804                tc_enable
+ .text.twim_interrupt_handler
+                0x000078ac      0x128 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(twim.o)
+ .text.__vector_13
+                0x000079d4       0x4e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(twim.o)
+                0x000079d4                __vector_13
+ .text.__vector_46
+                0x00007a22       0x4e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(twim.o)
+                0x00007a22                __vector_46
+ .text.twi_master_init
+                0x00007a70       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(twim.o)
+                0x00007a70                twi_master_init
+ .text.twi_master_transfer
+                0x00007aa0       0xae ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(twim.o)
+                0x00007aa0                twi_master_transfer
+ .text.sysclk_enable_peripheral_clock
+                0x00007b4e      0x17e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+ .text.usart_putchar
+                0x00007ccc       0x10 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+                0x00007ccc                usart_putchar
+ .text.usart_set_baudrate
+                0x00007cdc      0x1c0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+                0x00007cdc                usart_set_baudrate
+ .text.usart_init_rs232
+                0x00007e9c       0x58 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+                0x00007e9c                usart_init_rs232
+ .text.udd_sleep_mode
+                0x00007ef4       0x34 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text.udd_ep_get_ctrl
+                0x00007f28       0x2e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text.udd_ctrl_init
+                0x00007f56       0x5a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text.udd_ctrl_stall_data
+                0x00007fb0       0x22 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text.udd_ctrl_send_zlp_in
+                0x00007fd2       0x22 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text.udd_ctrl_endofrequest
+                0x00007ff4       0x10 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text.udd_ep_get_job
+                0x00008004       0x34 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text.udd_ep_trans_complet
+                0x00008038      0x1f8 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text.udd_ctrl_in_sent
+                0x00008230       0xe6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text.udd_ctrl_interrupt_tc_setup
+                0x00008316       0xea ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .text.udd_disable
+                0x00008400       0x34 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x00008400                udd_disable
+ .text.udd_attach
+                0x00008434       0x46 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x00008434                udd_attach
+ .text.udd_enable
+                0x0000847a       0xec ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x0000847a                udd_enable
+ .text.udd_detach
+                0x00008566        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x00008566                udd_detach
+ .text.udd_is_high_speed
+                0x00008572        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x00008572                udd_is_high_speed
+ .text.udd_set_address
+                0x00008576        0x6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x00008576                udd_set_address
+ .text.udd_getaddress
+                0x0000857c        0x6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x0000857c                udd_getaddress
+ .text.udd_get_frame_number
+                0x00008582        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x00008582                udd_get_frame_number
+ .text.udd_get_micro_frame_number
+                0x0000858e        0x6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x0000858e                udd_get_micro_frame_number
+ .text.udd_set_setup_payload
+                0x00008594       0x12 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x00008594                udd_set_setup_payload
+ .text.udd_ep_alloc
+                0x000085a6       0xcc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x000085a6                udd_ep_alloc
+ .text.udd_ep_is_halted
+                0x00008672        0xe ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x00008672                udd_ep_is_halted
+ .text.udd_ep_clear_halt
+                0x00008680       0x32 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x00008680                udd_ep_clear_halt
+ .text.udd_ep_run
+                0x000086b2      0x106 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x000086b2                udd_ep_run
+ .text.udd_ep_abort
+                0x000087b8       0x58 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x000087b8                udd_ep_abort
+ .text.udd_ep_set_halt
+                0x00008810       0x20 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x00008810                udd_ep_set_halt
+ .text.udd_ep_free
+                0x00008830       0x12 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x00008830                udd_ep_free
+ .text.__vector_125
+                0x00008842      0x17c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x00008842                __vector_125
+ .text.__vector_126
+                0x000089be      0x1b4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x000089be                __vector_126
+ .text.udi_cdc_comm_disable
+                0x00008b72        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+                0x00008b72                udi_cdc_comm_disable
+ .text.udi_cdc_data_setup
+                0x00008b7e        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+                0x00008b7e                udi_cdc_data_setup
+ .text.udi_cdc_getsetting
+                0x00008b82        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+                0x00008b82                udi_cdc_getsetting
+ .text.udi_cdc_line_coding_received
+                0x00008b86        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_data_disable
+                0x00008b88       0x18 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+                0x00008b88                udi_cdc_data_disable
+ .text.udi_cdc_tx_send.isra.3
+                0x00008ba0      0x122 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_data_sof_notify
+                0x00008cc2        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+                0x00008cc2                udi_cdc_data_sof_notify
+ .text.udi_cdc_data_sent
+                0x00008cc4       0x2c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_comm_setup
+                0x00008cf0       0x7c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+                0x00008cf0                udi_cdc_comm_setup
+ .text.udi_cdc_comm_enable
+                0x00008d6c       0x7c ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+                0x00008d6c                udi_cdc_comm_enable
+ .text.udi_cdc_multi_get_nb_received_data
+                0x00008de8       0x28 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+                0x00008de8                udi_cdc_multi_get_nb_received_data
+ .text.udi_cdc_multi_is_rx_ready
+                0x00008e10        0xe ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+                0x00008e10                udi_cdc_multi_is_rx_ready
+ .text.udi_cdc_rx_start.isra.8
+                0x00008e1e       0x84 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_data_received
+                0x00008ea2       0x58 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .text.udi_cdc_data_enable
+                0x00008efa       0x68 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+                0x00008efa                udi_cdc_data_enable
+ .text.libgcc.div
+                0x00008f62       0x28 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodhi4.o)
+                0x00008f62                __udivmodhi4
+ .text.libgcc.div
+                0x00008f8a       0x44 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodsi4.o)
+                0x00008f8a                __udivmodsi4
+ .text.libgcc.mul
+                0x00008fce       0x18 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_umulhisi3.o)
+                0x00008fce                __umulhisi3
+ .text.libgcc.mul
+                0x00008fe6        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_usmulhisi3.o)
+                0x00008fe6                __usmulhisi3
+                0x00008fe8                __usmulhisi3_tail
+ .text.libgcc.mul
+                0x00008ff2       0x14 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_muluhisi3.o)
+                0x00008ff2                __muluhisi3
+ .text.avr-libc
+                0x00009006      0x20e c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o)
+                0x00009006                strtoul
+ .text.avr-libc
+                0x00009214       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(isspace.o)
+                0x00009214                isspace
+ .text.avr-libc
+                0x00009224       0x30 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strncasecmp_P.o)
+                0x00009224                strncasecmp_P
+ .text.avr-libc
+                0x00009254       0x12 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(memcpy.o)
+                0x00009254                memcpy
+ .text.avr-libc
+                0x00009266       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strnlen.o)
+                0x00009266                strnlen
+ .text.avr-libc
+                0x0000927c       0x3e c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(itoa.o)
+                0x0000927c                itoa
+ .text.avr-libc
+                0x000092ba       0x6c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o)
+                0x000092ba                snprintf_P
+ .text.avr-libc
+                0x00009326       0x50 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(sprintf_p.o)
+                0x00009326                sprintf_P
+ .text.avr-libc
+                0x00009376      0x3e4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o)
+                0x00009376                vfprintf
+ .text.avr-libc
+                0x0000975a        0x6 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(cty_isfalse.o)
+                0x0000975a                __ctype_isfalse
+                0x0000975e                __ctype_istrue
+ .text.avr-libc
+                0x00009760       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strnlen_P.o)
+                0x00009760                strnlen_P
+ .text.avr-libc
+                0x00009776       0x20 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strrev.o)
+                0x00009776                strrev
+ .text.avr-libc
+                0x00009796       0x58 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+                0x00009796                fputc
+ .text.avr-libc
+                0x000097ee       0xbc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(ultoa_invert.o)
+                0x000097ee                __ultoa_invert
+ .text.libgcc.mul
+                0x000098aa       0x1e c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_mulsi3.o)
+                0x000098aa                __mulsi3
+                0x000098c8                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000098c8        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_exit.o)
+                0x000098c8                _exit
+                0x000098c8                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000098c8        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000098cc                _etext = .
+
+.data           0x00802000      0x186 load address 0x000098cc
+                0x00802000                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+ .data          0x00802000        0x0 services/config/config.o
+ .data          0x00802000        0x0 services/datalogger/boot.o
+ .data          0x00802000        0x0 services/datalogger/datalogger.o
+ .data          0x00802000        0x0 services/IDF/IDF.o
+ .data          0x00802000        0x0 services/taskman/taskman.o
+ .data          0x00802000        0x0 simple_logger.o
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(pulse_raingauge.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(VBusMon.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(buffer_usart.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(cbuffer_usart.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(init.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc_aau.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(wdt.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sysclk.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ioport_compat.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sleepmgr.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ccp.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm_asm.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(twim.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc_desc.o)
+ .data          0x00802000        0x0 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodhi4.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_exit.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_copy_data.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_clear_bss.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_umulhisi3.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_usmulhisi3.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_muluhisi3.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(isspace.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strncasecmp_P.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(memcpy.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strnlen.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(itoa.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(sprintf_p.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(errno.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(cty_isfalse.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strnlen_P.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strrev.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(ultoa_invert.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega6\libgcc.a(_mulsi3.o)
+ *(.data*)
+ .data.g_timePrev
+                0x00802000        0x4 services/datalogger/datalogger.o
+ .data.g_acc_task_send_RT
+                0x00802004        0x4 services/datalogger/datalogger.o
+ .data.dl_cycle_lock
+                0x00802008        0x1 services/datalogger/datalogger.o
+                0x00802008                dl_cycle_lock
+ .data.USART_SERIAL_OPTIONS.6947
+                0x00802009        0x7 services/datalogger/datalogger.o
+ .data.g_sendverb
+                0x00802010        0x1 services/datalogger/datalogger.o
+ .data.USART_SERIAL_OPTIONS.6697
+                0x00802011        0x7 simple_logger.o
+ .data.g_log_verbosity
+                0x00802018        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+                0x00802018                g_log_verbosity
+ .data.sleepmgr_configs
+                0x00802019        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sleepmgr.o)
+                0x00802019                sleepmgr_configs
+ *fill*         0x00802025        0x1 
+ .data.udc_string_desc_languageid
+                0x00802026        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .data.udc_string_manufacturer_name
+                0x0080202a        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .data.udc_string_product_name
+                0x00802034        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .data.udc_string_desc
+                0x00802038       0x14 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .data.udc_config
+                0x0080204c        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc_desc.o)
+                0x0080204c                udc_config
+ .data.udc_config_fs
+                0x00802050        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc_desc.o)
+                0x00802050                udc_config_fs
+ .data.udi_apis
+                0x00802054        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc_desc.o)
+                0x00802054                udi_apis
+ .data.udc_desc_fs
+                0x00802058       0x44 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc_desc.o)
+                0x00802058                udc_desc_fs
+ .data.udc_device_desc
+                0x0080209c       0x12 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc_desc.o)
+                0x0080209c                udc_device_desc
+ .data.udi_api_cdc_data
+                0x008020ae        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+                0x008020ae                udi_api_cdc_data
+ .data.udi_api_cdc_comm
+                0x008020b8        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+                0x008020b8                udi_api_cdc_comm
+ *(.rodata)
+ *(.rodata*)
+ .rodata.TAG.6903
+                0x008020c2        0x4 services/datalogger/datalogger.o
+ .rodata.CSWTCH.125
+                0x008020c6       0x20 services/datalogger/datalogger.o
+ .rodata.__func__.7153
+                0x008020e6       0x12 services/datalogger/datalogger.o
+ .rodata.__func__.7138
+                0x008020f8       0x14 services/datalogger/datalogger.o
+ .rodata.__func__.7108
+                0x0080210c       0x14 services/datalogger/datalogger.o
+ .rodata.__func__.7160
+                0x00802120       0x15 services/datalogger/datalogger.o
+ .rodata.__func__.7220
+                0x00802135       0x14 services/datalogger/datalogger.o
+ .rodata.__func__.7166
+                0x00802149       0x12 services/datalogger/datalogger.o
+ .rodata.TAG.6881
+                0x0080215b        0x4 services/datalogger/datalogger.o
+ .rodata.month  0x0080215f       0x18 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o)
+                0x0080215f                month
+ .rodata.CSWTCH.42
+                0x00802177        0xe ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ *(.gnu.linkonce.d*)
+                0x00802186                . = ALIGN (0x2)
+ *fill*         0x00802185        0x1 
+                0x00802186                _edata = .
+                0x00802186                PROVIDE (__data_end, .)
+
+.bss            0x00802188      0x45a
+                0x00802188                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.g_data_snapshot_num
+                0x00802188        0x1 services/datalogger/datalogger.o
+ .bss.g_data_snapshot
+                0x00802189      0x110 services/datalogger/datalogger.o
+ .bss.g_acc_task_store
+                0x00802299        0x4 services/datalogger/datalogger.o
+ .bss.g_acc_task_sync
+                0x0080229d        0x4 services/datalogger/datalogger.o
+ .bss.task_status_send_data
+                0x008022a1        0x1 services/datalogger/datalogger.o
+                0x008022a1                task_status_send_data
+ .bss.task_status_sync_time
+                0x008022a2        0x1 services/datalogger/datalogger.o
+                0x008022a2                task_status_sync_time
+ .bss.task_status_store_data
+                0x008022a3        0x1 services/datalogger/datalogger.o
+                0x008022a3                task_status_store_data
+ .bss.task_status_send_data_RT
+                0x008022a4        0x1 services/datalogger/datalogger.o
+                0x008022a4                task_status_send_data_RT
+ .bss.task_status_send_data_prepare_RT
+                0x008022a5        0x1 services/datalogger/datalogger.o
+                0x008022a5                task_status_send_data_prepare_RT
+ .bss.task_status_server_cmd_check
+                0x008022a6        0x1 services/datalogger/datalogger.o
+                0x008022a6                task_status_server_cmd_check
+ .bss.g_interv_task_send_RT
+                0x008022a7        0x4 services/datalogger/datalogger.o
+ .bss.g_interv_task_store
+                0x008022ab        0x4 services/datalogger/datalogger.o
+ .bss.g_interv_task_sync
+                0x008022af        0x4 services/datalogger/datalogger.o
+ .bss.g_timespan
+                0x008022b3        0x4 services/datalogger/datalogger.o
+ .bss.g_eeprom_iter
+                0x008022b7        0x8 services/datalogger/datalogger.o
+ .bss.g_is_GPRS_module_OK
+                0x008022bf        0x1 services/datalogger/datalogger.o
+ .bss.dl_send_params
+                0x008022c0        0x9 services/datalogger/datalogger.o
+ .bss.dl_send_params_RT
+                0x008022c9        0x9 services/datalogger/datalogger.o
+ .bss.r.6393    0x008022d2        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(VBusMon.o)
+ .bss.adca_enable_count
+                0x008022d3        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc.o)
+ .bss.adcb_enable_count
+                0x008022d4        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc.o)
+ .bss.g_cdc_enable
+                0x008022d5        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+ .bss.udc_ptr_iface
+                0x008022d6        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .bss.udc_num_configuration
+                0x008022d8        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .bss.udc_ptr_conf
+                0x008022d9        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .bss.udc_device_status
+                0x008022db        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .bss.udc_iface_setting.4630
+                0x008022dd        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .bss.udc_ep_status.4572
+                0x008022de        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .bss.tc_tcc0_ovf_callback
+                0x008022e0        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcc0_err_callback
+                0x008022e2        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcc0_cca_callback
+                0x008022e4        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcc0_ccb_callback
+                0x008022e6        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcc0_ccc_callback
+                0x008022e8        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcc0_ccd_callback
+                0x008022ea        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcc1_ovf_callback
+                0x008022ec        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcc1_err_callback
+                0x008022ee        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcc1_cca_callback
+                0x008022f0        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcc1_ccb_callback
+                0x008022f2        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcd0_ovf_callback
+                0x008022f4        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcd0_err_callback
+                0x008022f6        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcd0_cca_callback
+                0x008022f8        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcd0_ccb_callback
+                0x008022fa        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcd0_ccc_callback
+                0x008022fc        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcd0_ccd_callback
+                0x008022fe        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcd1_ovf_callback
+                0x00802300        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcd1_err_callback
+                0x00802302        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcd1_cca_callback
+                0x00802304        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcd1_ccb_callback
+                0x00802306        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tce0_ovf_callback
+                0x00802308        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tce0_err_callback
+                0x0080230a        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tce0_cca_callback
+                0x0080230c        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tce0_ccb_callback
+                0x0080230e        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tce0_ccc_callback
+                0x00802310        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tce0_ccd_callback
+                0x00802312        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tce1_ovf_callback
+                0x00802314        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tce1_err_callback
+                0x00802316        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tce1_cca_callback
+                0x00802318        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tce1_ccb_callback
+                0x0080231a        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcf0_ovf_callback
+                0x0080231c        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcf0_err_callback
+                0x0080231e        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcf0_cca_callback
+                0x00802320        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcf0_ccb_callback
+                0x00802322        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcf0_ccc_callback
+                0x00802324        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.tc_tcf0_ccd_callback
+                0x00802326        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .bss.transfer  0x00802328        0xc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(twim.o)
+ .bss.udd_sram  0x00802334       0x40 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .bss.udd_ep_job
+                0x00802374       0x24 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .bss.udd_b_idle
+                0x00802398        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .bss.udd_ep_out_cache_buffer
+                0x00802399       0x80 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .bss.udd_ctrl_buffer
+                0x00802419       0x40 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .bss.udd_ep_control_state
+                0x00802459        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .bss.udd_ctrl_prev_payload_nb_trans
+                0x0080245b        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .bss.udd_ctrl_payload_nb_trans
+                0x0080245d        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .bss.b_shortpacket.5152
+                0x0080245f        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .bss.udi_cdc_tx_both_buf_to_send
+                0x00802460        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_tx_trans_ongoing
+                0x00802461        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_tx_buf_sel
+                0x00802462        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_rx_trans_ongoing
+                0x00802463        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_rx_pos
+                0x00802464        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_rx_buf_sel
+                0x00802466        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_data_running
+                0x00802467        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_nb_data_enabled
+                0x00802468        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_nb_comm_enabled
+                0x00802469        0x1 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_state
+                0x0080246a        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.uid_cdc_state_msg
+                0x0080246c        0xa ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_line_coding
+                0x00802476        0x7 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_tx_buf_nb
+                0x0080247d        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_tx_sof_num
+                0x00802481        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_rx_buf_nb
+                0x00802483        0x4 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.sof_zlp_counter.4743
+                0x00802487        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ *fill*         0x00802489        0x1 
+ .bss.udi_cdc_tx_buf
+                0x0080248a       0x80 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .bss.udi_cdc_rx_buf
+                0x0080250a       0x80 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ *(COMMON)
+ COMMON         0x0080258a       0x14 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(pulse_raingauge.o)
+                0x0080258a                raingauge_stats
+ COMMON         0x0080259e       0x2a ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+                0x0080259e                sim900_usart_data
+                0x008025b0                g_szIMEI
+ COMMON         0x008025c8        0x6 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sleepmgr.o)
+                0x008025c8                sleepmgr_locks
+ COMMON         0x008025ce        0x2 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+                0x008025ce                rtc_data
+ COMMON         0x008025d0       0x10 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+                0x008025d0                udd_g_ctrlreq
+ COMMON         0x008025e0        0x2 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(errno.o)
+                0x008025e0                errno
+                0x008025e2                PROVIDE (__bss_end, .)
+                0x000098cc                __data_load_start = LOADADDR (.data)
+                0x00009a52                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008025e2        0x0
+                0x008025e2                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008025e2                PROVIDE (__noinit_end, .)
+                0x008025e2                _end = .
+                0x008025e2                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab           0x00000000     0x11dc
+ *(.stab)
+ .stab          0x00000000      0x6e4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+ .stab          0x000006e4       0x9c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(isspace.o)
+                                 0xa8 (size before relaxing)
+ .stab          0x00000780      0x138 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strncasecmp_P.o)
+                                0x144 (size before relaxing)
+ .stab          0x000008b8       0x84 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(memcpy.o)
+                                 0x90 (size before relaxing)
+ .stab          0x0000093c       0x9c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strnlen.o)
+                                 0xa8 (size before relaxing)
+ .stab          0x000009d8      0x1b0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(itoa.o)
+                                0x1bc (size before relaxing)
+ .stab          0x00000b88       0x60 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(cty_isfalse.o)
+                                 0x6c (size before relaxing)
+ .stab          0x00000be8       0x9c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strnlen_P.o)
+                                 0xa8 (size before relaxing)
+ .stab          0x00000c84       0xd8 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strrev.o)
+                                 0xe4 (size before relaxing)
+ .stab          0x00000d5c      0x480 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(ultoa_invert.o)
+                                0x48c (size before relaxing)
+
+.stabstr        0x00000000      0x47c
+ *(.stabstr)
+ .stabstr       0x00000000      0x47c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x2f
+ *(.comment)
+ .comment       0x00000000       0x2f services/config/config.o
+                                 0x30 (size before relaxing)
+ .comment       0x00000000       0x30 services/datalogger/boot.o
+ .comment       0x00000000       0x30 services/datalogger/datalogger.o
+ .comment       0x00000000       0x30 services/IDF/IDF.o
+ .comment       0x00000000       0x30 services/taskman/taskman.o
+ .comment       0x00000000       0x30 simple_logger.o
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(AT24CXX.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(pulse_raingauge.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(VBusMon.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(voltmeter.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sim900.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(buffer_usart.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(cbuffer_usart.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(init.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(calendar.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(adc_aau.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(wdt.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(globals.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sysclk.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ioport_compat.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(sleepmgr.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udc.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(rtc32.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(tc.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(twim.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usart.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(usb_device.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc_desc.o)
+ .comment       0x00000000       0x30 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(udi_cdc.o)
+ .comment       0x00000000       0x30 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o)
+ .comment       0x00000000       0x30 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o)
+ .comment       0x00000000       0x30 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(sprintf_p.o)
+ .comment       0x00000000       0x30 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o)
+ .comment       0x00000000       0x30 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(errno.o)
+ .comment       0x00000000       0x30 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x100
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ccp.o)
+ .debug_aranges
+                0x00000020       0x28 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm_asm.o)
+ .debug_aranges
+                0x00000048       0x20 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o)
+ .debug_aranges
+                0x00000068       0x20 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o)
+ .debug_aranges
+                0x00000088       0x20 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(sprintf_p.o)
+ .debug_aranges
+                0x000000a8       0x20 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o)
+ .debug_aranges
+                0x000000c8       0x18 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(errno.o)
+ .debug_aranges
+                0x000000e0       0x20 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0xdb5
+ *(.debug_info)
+ .debug_info    0x00000000       0xbc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ccp.o)
+ .debug_info    0x000000bc       0xbc ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm_asm.o)
+ .debug_info    0x00000178      0x12d c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o)
+ .debug_info    0x000002a5      0x21c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o)
+ .debug_info    0x000004c1      0x204 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(sprintf_p.o)
+ .debug_info    0x000006c5      0x549 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o)
+ .debug_info    0x00000c0e       0x33 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(errno.o)
+ .debug_info    0x00000c41      0x174 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x633
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x14 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ccp.o)
+ .debug_abbrev  0x00000014       0x12 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm_asm.o)
+ .debug_abbrev  0x00000026       0xb9 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o)
+ .debug_abbrev  0x000000df      0x139 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o)
+ .debug_abbrev  0x00000218      0x12a c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(sprintf_p.o)
+ .debug_abbrev  0x00000342      0x1d6 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o)
+ .debug_abbrev  0x00000518       0x2a c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(errno.o)
+ .debug_abbrev  0x00000542       0xf1 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+
+.debug_line     0x00000000      0xb15
+ *(.debug_line)
+ .debug_line    0x00000000       0x6e ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(ccp.o)
+ .debug_line    0x0000006e      0x11f ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm_asm.o)
+ .debug_line    0x0000018d      0x16e c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o)
+ .debug_line    0x000002fb      0x1a6 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o)
+ .debug_line    0x000004a1      0x196 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(sprintf_p.o)
+ .debug_line    0x00000637      0x35a c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o)
+ .debug_line    0x00000991       0x80 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(errno.o)
+ .debug_line    0x00000a11      0x104 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+
+.debug_frame    0x00000000      0x1b0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x74 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o)
+ .debug_frame   0x00000074       0x40 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o)
+ .debug_frame   0x000000b4       0x40 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(sprintf_p.o)
+ .debug_frame   0x000000f4       0x84 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o)
+ .debug_frame   0x00000178       0x38 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+
+.debug_str      0x00000000      0x3a6
+ *(.debug_str)
+ .debug_str     0x00000000       0xb2 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o)
+                                 0xeb (size before relaxing)
+ .debug_str     0x000000b2       0xee c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o)
+                                0x149 (size before relaxing)
+ .debug_str     0x000001a0       0x70 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(sprintf_p.o)
+                                0x140 (size before relaxing)
+ .debug_str     0x00000210       0xd1 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o)
+                                0x1ad (size before relaxing)
+ .debug_str     0x000002e1       0x63 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(errno.o)
+                                 0x75 (size before relaxing)
+ .debug_str     0x00000344       0x62 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+                                0x10d (size before relaxing)
+
+.debug_loc      0x00000000      0xbe8
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x3ce c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o)
+ .debug_loc     0x000003ce       0xa3 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o)
+ .debug_loc     0x00000471       0x61 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(sprintf_p.o)
+ .debug_loc     0x000004d2      0x623 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o)
+ .debug_loc     0x00000af5       0xf3 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0x70
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x20 ../../AcroboardStation_v01/Release\libacrostation_gprs_1.3.a(nvm_asm.o)
+ .debug_ranges  0x00000020       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(strtoul.o)
+ .debug_ranges  0x00000030       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(snprintf_p.o)
+ .debug_ranges  0x00000040       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(sprintf_p.o)
+ .debug_ranges  0x00000050       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(vfprintf_std.o)
+ .debug_ranges  0x00000060       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(faia.elf elf32-avr)
+LOAD linker stubs
+
+.dl_boot        0x00080000        0x0
